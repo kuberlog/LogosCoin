@@ -22,4 +22,4 @@ Each entity's mint has the ability to tax any other entity in the mint's currenc
 
 ## Rational
 
-If we are going to say that every person is uniquely valuable and sovereign in the eyes of the Logos, then it must be the case that each and every person can issue their own currency. Soverigns by right have the ability to issue currency. There is really no escaping this conclusion in any economic system based on currency that embedded in a philisophical system that declares each and every being to be a sovereign. A economic system that deviates from this is philisophically inconsistent.
+If we are going to say that every person is uniquely valuable and sovereign in the eyes of the Logos, then it must be the case that each and every person can issue their own currency. Soverigns by right have the ability to issue currency. There is really no escaping this conclusion in any economic system based on currency that is embedded in a philisophical system that declares each and every being to be a sovereign with a holy spirit. A economic system that deviates from this is philisophically inconsistent.
