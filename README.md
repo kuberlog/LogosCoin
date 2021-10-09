@@ -2,7 +2,7 @@
 
 ## Definition
 
-Logos Coin is a meta-coin, a process if you will, that allows every entity with an internal Logos, (IE a Holy Spirit inside of them), to issue their own currency. Every internal Logos will also keep a table of exange rates that determine how much they value other currencies. Since each currency is wholy minted by a single issuer, then the exchange rate that each currecny defines will be the actual exchage rate. 
+Logos Coin is a meta-coin, a process if you will, that allows every entity with an internal Logos, (IE a Holy Spirit inside of them), to issue their own currency. Every internal Logos will also keep a table of exange rates that determine how much they value other currencies. Since each currency is wholy minted and retracted by a single issuer, then the exchange rate that each currecny defines will be the actual exchage rate. 
 
 ## Example
 
@@ -15,11 +15,11 @@ Because of the n^n space complexity of keeping tables of one-way exchange rates,
 
 ## Dynamics
 
-So how would the dynamics of a Logos Coin economy play out. Just think of each Logos (IE Person, Corporation, Government) as their own sovereign. If the sovereign inflates their currency by trading lots of their currency for things, then the exchange rates for their currency will decrease dynamically and their currency will inflate to worthlessness. Each entity's currency is backed by that entity's potential (IE intrinsic) value. When purchasing goods from an entity, the entity will only accept their minted coin, meaning that other currencies must be exchanged with the mint to be useful. Of course if an entity posseses another entity's currency, then that can be directly traded. 
+So how would the dynamics of a Logos Coin economy play out. Just think of each Logos (IE Person, Corporation, Government) as their own sovereign. If the sovereign inflates their currency by trading lots of their currency for things, then the exchange rates for their currency will decrease dynamically and their currency will inflate to worthlessness. Each entity's currency is backed by that entity's potential (IE intrinsic value). When purchasing goods from an entity, the entity will only accept their minted coin, meaning that other currencies must be exchanged with the mint to be useful. Of course if an entity posseses another entity's currency, then that can be directly traded. 
 
 ## Taxation
 Each entity's mint has the ability to tax any other entity in the mint's currency (given that the other entity posses currency to pay), which means if `a` has 10 `kuberlogCoin` and kuberlog does not wish to keep those coins in circulation, `kuberlog` could simply tax all 10 `kuberlogCoins` from `a`. The mint has unilateral power to rectract coins from the economy from anyone they wish, however, excessive use of this power will devalue or even blacklist the currency from other sovereign exchange rates alltogether.
 
 ## Rational
 
-If we are going to say that every person is uniquely valuable and sovereign in the eyes of the Logos, then it must be the case that each and every person can issue their own currency. Soverigns by right have the ability to issue currency. There is really no escaping this conclusion in any economic system based on currency that embedded in a philisophical system that declares each and every being to be a sovereign. A economic system that deviates from this is philisophically inconsistent.
+If we are going to say that every person is uniquely valuable and sovereign in the eyes of the Logos, then it must be the case that each and every person can issue their own currency. Soverigns by right have the ability to issue currency. There is really no escaping this conclusion in any economic system based on currency that is embedded in a philisophical system that declares each and every being to be a sovereign with a holy spirit. A economic system that deviates from this is philisophically inconsistent.
