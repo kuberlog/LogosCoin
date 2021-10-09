@@ -2,7 +2,7 @@
 
 ## Definition
 
-Logos Coin is a meta-coin, a process if you will, that allows every entity with an internal Logos, (IE a Holy Spirit inside of them), to issue their own currency. Every internal Logos will also keep a table of exange rates that determine how much they value other currencies. Since each currency is wholy minted by a single issuer, then the exchange rate that each currecny defines will be the actual exchage rate. 
+Logos Coin is a meta-coin, a process if you will, that allows every entity with an internal Logos, (IE a Holy Spirit inside of them), to issue their own currency. Every internal Logos will also keep a table of exange rates that determine how much they value other currencies. Since each currency is wholy minted and retracted by a single issuer, then the exchange rate that each currecny defines will be the actual exchage rate. 
 
 ## Example
 
