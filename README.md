@@ -6,7 +6,7 @@ Logos Coin is a meta-coin, a process if you will, that allows every entity with 
 
 ## Example
 
-If kuberlogCoin defines an exchange rate as follows `{aCoin: 10, bCoin:5, cCoin: 1, dCoin: 0}`, then an entity with 1 aCoin can exhange that aCoin with the kuberlogCoinMint for 10 kuberlogCoins, a bCoin can be exchanged with the mint for 5 kuberlogCoins, a cCoin can be exchanged for 1 kuberlogCoin, and a dCoin is worthless for exchanging with a kuberlogCoin.
+If kuberlogCoin defines an exchange rate as follows `{aCoin: 10, bCoin: 5, cCoin: 1, dCoin: 0}`, then an entity with 1 aCoin can exhange that aCoin with the kuberlogCoinMint for 10 kuberlogCoins, a bCoin can be exchanged with the mint for 5 kuberlogCoins, a cCoin can be exchanged for 1 kuberlogCoin, and a dCoin is worthless for exchanging with a kuberlogCoin.
 
 ## Space complexity
 
